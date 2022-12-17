@@ -1,0 +1,3 @@
+ban hang,vu huy hoang,nam,2003,thanh hoa,0335487431,12345,100000
+thu ngan,ngoc khoi yeu bong,nu,2003,thanh hoa,0335487431,12346,100000
+quan ly,tham khang ,nam,2000,thanh hoa,0335487431,12347,100000
